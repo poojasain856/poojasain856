@@ -1,11 +1,9 @@
-
+![logo](https://github.com/poojasain856/poojasain856/blob/main/LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Pooja Sain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
-
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fankita-chauhan-aaa0606a&psig=AOvVaw3ugXmZ2bQZShmhISw4goRM&ust=1696529408230000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjottn-3IEDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojasain856&label=Profile%20views&color=0e75b6&style=flat" alt="poojasain856" /> </p>
 
